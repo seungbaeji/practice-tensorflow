@@ -1,0 +1,8 @@
+./packages/object_detection-0.1-py3-none-any.whl
+pandas
+tensorflow
+google-api-python-client
+Pillow
+pyyaml
+wget
+pytz
